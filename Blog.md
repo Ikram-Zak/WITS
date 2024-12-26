@@ -24,6 +24,12 @@ The dataset used country code for Partner countries and Reporting countries to i
 XWD region was added to the code list which holds unallocated import and export for each country thus ensuring consistency within the data.
 Although it is not present in the official list of countries provided by WITS, XWD was added with 000 as Country Code and "Unallocated I&E" as Country Name.
 
+In addition to XWD, 5 countries had to be added to the WITS list as they were missing, these countries are:
+- TLS	626	Timor-Leste
+- COD	180	Congo, The Democratic Republic of 
+- IMN	833	Isle of Man
+- ROU	642	Romania
+- MNE	198	Montenegro
 
 
 
